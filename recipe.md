@@ -27,9 +27,4 @@ Hierbij de ingredienten die nodig zijn:
 - - 4 scallions
 - - 1 large carrot
 - - 200 g most of 1 pack of bean sprouts
-    **Puma changes**
-    **Puma changes**
-    **Puma changes**
-    **Puma changes**
-    **Puma changes**
-    **Puma changes**
+    **This is the final test. I just cloned again into my local folder. Then I made a second branc ingredient2. Now Iam making this changes before ppushing it into ingredient2 en then merging it into the main!!!**
